@@ -22,8 +22,14 @@ Este proyecto fue desarrollado como parte de una actividad formativa de INACAP, 
 ## Resultados
 El programa generó recomendaciones de productos utilizando el algoritmo KNeighborsClassifier. Entre los resultados se obtuvo un cargador portátil con una probabilidad estimada de gusto del 100 % y un soporte para portátil con un 28,64 %.
 
-## Evidencias
-En esta sección se incorporarán capturas del código generado y de los resultados obtenidos en la terminal.
+
+## Evidencias del procedimiento
+
+Durante el desarrollo del proyecto se recopilaron capturas de pantalla que documentan las principales etapas de la actividad, incluyendo la creación del repositorio, la configuración del entorno de trabajo, la creación del archivo Python, la generación del código mediante GitHub Copilot y la comprobación de su funcionamiento.
+
+Las evidencias se encuentran disponibles en la siguiente carpeta:
+
+📸 [Ver capturas de evidencia del proyecto](capturas/)
 
 ## Conclusión
 La actividad permitió comprender cómo GitHub Copilot puede apoyar el desarrollo de código mediante inteligencia artificial, facilitando la creación de un sistema básico de recomendación de productos.
