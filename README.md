@@ -25,11 +25,33 @@ El programa generó recomendaciones de productos utilizando el algoritmo KNeighb
 
 ## Evidencias del procedimiento
 
-Durante el desarrollo del proyecto se recopilaron capturas de pantalla que documentan las principales etapas de la actividad, incluyendo la creación del repositorio, la configuración del entorno de trabajo, la creación del archivo Python, la generación del código mediante GitHub Copilot y la comprobación de su funcionamiento.
+A continuación, se presentan las capturas que documentan las principales etapas del desarrollo del proyecto.
 
-Las evidencias se encuentran disponibles en la siguiente carpeta:
+### 1. Creación del repositorio en GitHub
+![Creación del repositorio](capturas/paso%201.PNG)
 
-📸 [Ver capturas de evidencia del proyecto](capturas/)
+### 2. Apertura del repositorio en GitHub Codespaces
+![Apertura en Codespaces](capturas/paso%202.PNG)
+
+### 3. Solicitud de generación de código mediante GitHub Copilot
+![Solicitud a Copilot](capturas/paso3.PNG)
+
+### 4. Generación del código del sistema de recomendación
+![Código generado](capturas/paso4.PNG)
+
+### 5. Instalación de bibliotecas
+![Instalación de pandas y scikit-learn](capturas/paso5.PNG)
+
+### 6. Ejecución y comprobación del programa
+![Resultados del programa](capturas/paso6.PNG)
+
+### 7. Documentación del proyecto en README.md
+![Documentación del proyecto](capturas/paso7.PNG)
+
+### 8. Registro y guardado de cambios mediante Git
+![Registro de cambios](capturas/paso8.PNG)
+
+[Ver todas las capturas en la carpeta de evidencias](capturas/)
 
 ## Conclusión
 La actividad permitió comprender cómo GitHub Copilot puede apoyar el desarrollo de código mediante inteligencia artificial, facilitando la creación de un sistema básico de recomendación de productos.
